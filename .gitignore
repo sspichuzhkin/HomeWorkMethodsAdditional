@@ -1,1 +1,3 @@
-/HomeWorkMethodsAdditional.iml
+*.iml
+/out/
+/.idea/
